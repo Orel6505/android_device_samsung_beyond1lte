@@ -24,6 +24,7 @@ EXTRA_FOD_ANIMATIONS := true
 TARGET_BOOTANIMATION_HALF_RES := true
 TARGET_SCREEN_HEIGHT := 3040
 TARGET_SCREEN_WIDTH := 1440
+TARGET_BOOT_ANIMATION_RES := 1080
 
 ## Device identifier, this must come after all inclusions
 PRODUCT_NAME := lineage_beyond1lte
